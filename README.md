@@ -1,5 +1,5 @@
 # New Relic Scripted Browser Framework
-This scripted browser framewrok boilerplate allows you to author multiple steps of a journey and record the timings and better manage the effect of failures of each step.  Each set of steps can be grouped into re-usable categories. Steps can be set to fail the script immediately or defer failure until the script completes. This allows scripted browser journeys to continue even if failures are detected, ensureing as much of your journey is tested as possible before failures are reported.
+This scripted browser framework boilerplate allows you to author multiple steps of a journey and record the timings and better manage the effect of failures of each step.  Each set of steps can be grouped into re-usable categories. Steps can be set to fail the script immediately or defer failure until the script completes. This allows scripted browser journeys to continue even if failures are detected, ensureing as much of your journey is tested as possible before failures are reported.
 
 Steps can be:
 
